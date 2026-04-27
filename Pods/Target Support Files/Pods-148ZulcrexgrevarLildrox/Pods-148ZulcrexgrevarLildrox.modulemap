@@ -1,0 +1,6 @@
+framework module Pods_148ZulcrexgrevarLildrox {
+  umbrella header "Pods-148ZulcrexgrevarLildrox-umbrella.h"
+
+  export *
+  module * { export * }
+}
