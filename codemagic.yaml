@@ -8,8 +8,8 @@ workflows:
           XCODE_WORKSPACE: "148ZulcrexgrevarLildrox.xcworkspace"
           XCODE_SCHEME: "148ZulcrexgrevarLildrox"
           BUNDLE_ID: "com.evr.z7lcr3xgr3v8rl9ldr0x"
-        EXTENSION_BUNDLE_ID: "com.evr.z7lcr3xgr3v8rl9ldr0x.NotificationServiceExtension"
-          APP_STORE_APP_ID: 6762079699
+          EXTENSION_BUNDLE_ID: "com.evr.z7lcr3xgr3v8rl9ldr0x.NotificationServiceExtension"
+          APP_STORE_APP_ID: 6762602452
         xcode: latest
         cocoapods: 1.14.2
       scripts:
